@@ -1,47 +1,13 @@
-# 👨‍💻 Chaquille Pratt | Portfolio Site
+# Portfolio Website
 
-Welcome to my personal portfolio website! This project showcases my journey from warehouse operations to full-stack web development. Built with Tailwind CSS and a focus on clean, responsive design.
+This is the start of my personal portfolio website, built with [Tailwind CSS](https://tailwindcss.com/) via CDN.
 
----
+## Quick Start
 
-## 📖 About Me
-
-Hi, I'm Chaquille 👋  
-I'm learning full stack development and love solving real-world problems with code. My transition from the warehouse floor to web development has equipped me with a strong work ethic and a passion for logical problem-solving.
-
----
-
-## 🛠️ Tech Stack
-
-- HTML5
-- Tailwind CSS
-- JavaScript (Vanilla)
+1. Open `index.html` in your browser to view the site.
+2. Customize `index.html` and add your own styles in `style.css`.
+3. For more Tailwind components, see the [Tailwind Docs](https://tailwindcss.com/docs).
 
 ---
 
-## 💡 Projects
-
-- **Task Tracker App**  
-  A simple to-do list built with HTML, CSS, and vanilla JavaScript. Demonstrates core front-end skills and DOM manipulation.
-
-_More projects coming soon!_
-
----
-
-## 📬 Contact
-
-- 📧 Email: [chaquillepratt9@gmail.com](mailto:chaquillepratt9@gmail.com)  
-- 🐙 GitHub: [chaquilleDigi](https://github.com/chaquilleDigi)
-
----
-
-## 📸 Live Preview
-
-_You can host this site using GitHub Pages or Netlify and drop the link here._
-
----
-
-## 📄 License
-
-© 2025 Chaquille Pratt. All rights reserved.
-
+Happy building!
